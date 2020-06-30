@@ -5,6 +5,7 @@
  - Author: sepera_okeq (Sergey Leshkevich)
  - Github: https://github.com/Sepera-okeq
  - Github Repo: https://github.com/Sepera-okeq/Google-Browser-Mod-HOI4
+ - Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=1836579821
  
  - Version Mod: 1.4
  - Version Support Game: **1.8.x/1.9.x** (HOI4) 
