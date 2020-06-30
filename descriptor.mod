@@ -1,5 +1,4 @@
 name="Google Browser"
-archive="googlebrowser.zip"
 tags={
 	"YouTube"
 	"Google"
@@ -10,4 +9,5 @@ tags={
 	"Technologies"
 }
 picture="google.png"
-supported_version="1.7.*"
+supported_version="1.9.3"
+remote_file_id="1836579821"
